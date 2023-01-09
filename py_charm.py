@@ -4,7 +4,8 @@ def num_list(a):
             print(i)
             print("wait for new number")
             a -= 1
-    print("---END---")
+    print('--The END --')
+
 
 num_list(5)
 
