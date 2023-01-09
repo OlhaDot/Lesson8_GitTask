@@ -12,4 +12,10 @@ def mane_function(a, b):
 
 mane_function(3, 5)
 
+def test_function():
+    print("New function was added")
+    print("----THE END----")
+
+
+
 
